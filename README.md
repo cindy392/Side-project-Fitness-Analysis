@@ -89,6 +89,7 @@
   結果：分析結果顯示皆為正相關，而Time (運動時間)中的Early morning(早上)對於xercise_frequency (運動頻率)中的1次的獲得分數為17.34是全部分數中最高的，所以運動時間是早上跟運動頻率1次之間相關性最高，而第二高的是Evening(晚上) 獲得分數為17.10，皆遠遠比Afternoon(下午) 的獲得分數0.71高。因此最後可以得出人們的運動時間大多都選擇早上或是晚上，少數人才會選擇下午的時間去運動。  
   ![image](https://github.com/cindy392/Side-project-Fitness-Analysis/assets/91950203/cdea9873-9e6d-4c0d-81d1-4ee1562d22f5)
 
+7.此為小組專題，本人負責工作為問題3-6程式碼和文件撰寫。
 
 
 
